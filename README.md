@@ -35,14 +35,7 @@ Do not use AI to write your code, Submissions made using AI generated code will 
 Use poetry for dependency management, or provide `requirements.txt` at the very least.
 Integrating with data sources will fetch extra points, however the assignment is still required to be completed.
 
-Submissions
-The final submission should be as a link for the github repository.
-Make the submission by 24th of January. Do let me know in case there are emergencies or if you need to expedite it a bit further.  
-Make your submissions using the following link:
 
-Submission Link: https://forms.gle/8aNkgdXWfzSnTpKD9
-
-Final Submission Date: 24 Jan 2025
 
  
 
